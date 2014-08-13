@@ -5,7 +5,7 @@ PHP script that creates graphs that represent your memcached usage.
 
 ### Author 
 
-Harun Yayli <harunyayli at gmail.com>
+Harun Yayli - harunyayli at gmail.com
 
 ### 'License'
 
